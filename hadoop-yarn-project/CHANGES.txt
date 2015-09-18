@@ -868,6 +868,8 @@ Release 2.8.0 - UNRELEASED
     YARN-4078. Add getPendingResourceRequestForAttempt in YarnScheduler interface.
     (Naganarasimha G R via jianhe)
 
+    YARN-4171. Fix findbugs warnings in YARN-1197 branch. (Wangda Tan via jianhe)
+
 Release 2.7.2 - UNRELEASED
 
   INCOMPATIBLE CHANGES
